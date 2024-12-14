@@ -1,0 +1,39 @@
+p,a,button,input,.risk-input-group label,.risk-input-group input{
+    font-size: 16px;
+}
+table,table th{
+    font-size: 14px;
+}
+.board-table thead tr th{
+    font-size: 14px;
+}
+
+.image-upload-column{
+    height: 50vh;
+}
+.upload-area {
+    height: 50vh;
+    line-height: 2;
+}
+
+.modal-body{
+    height: 50vh;
+}
+
+.upload-btn{
+    position: absolute;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 10px;
+    margin: 7px;
+}
+
+.about-image img{
+    background-color: black;
+}
+
+.about-image {
+    margin-top: -150px;
+}
